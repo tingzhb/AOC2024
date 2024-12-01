@@ -1,2 +1,2 @@
 # AOC2024
-Oh no not again.
+Why do you do this to yourself?
